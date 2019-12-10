@@ -1,0 +1,1 @@
+My own algorithm for generating sequences with constant length based on dictionary.
